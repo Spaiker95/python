@@ -8,8 +8,10 @@ class My_class:
     
     
 tom = My_class(4, 3)
+jack = My_class(6, 7)
+
 
 print(tom.summ())
-    
+print(jack.summ())    
 
         
