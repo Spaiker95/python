@@ -9,9 +9,10 @@ class My_class:
     
 tom = My_class(4, 3)
 jack = My_class(6, 7)
-
+andy = My_class(5, 5)
 
 print(tom.summ())
-print(jack.summ())    
+print(jack.summ())
+print(andy.summ())
 
         
